@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Šachový tréning</string>
+
+    <string name="home">Domov</string>
+    <string name="training">Trening</string>
+    <string name="courses">Kurzy</string>
+    <string name="settings">Nastavenia</string>
+
+
+    <string name="custom_buttom_play_agaist_player">Hraj Proti Žiakovi</string>
+    <string name="custom_buttom_play_against_ai">Hraj Proti Robotovi</string>
+    <string name="custom_buttom_check_rating">Pozri Rating</string>
+    <string name="custom_buttom_trainer_courses">Zadania od trénera</string>
+    <string name="custom_buttom_trainer_menu">Trénerské menu</string>
+    <string name="custom_buttom_played_games">Partie</string>
+    <string name="change_photo">Zmeň Obrázok</string>
+    <string name="change_name">Zmeň Meno</string>
+    <string name="close_account">Zruš si účet</string>
+    <string name="log_out">Odhlás sa</string>
+    <string name="about">O aplikácií</string>
+    <string name="sounds">Zvuky</string>
+    <string name="notifications">Oznamenia</string>
+    <string name="games_and_puzzles">Hry a Hádanky</string>
+    <string name="delete_account">Vymazať účet</string>
+    <string name="solve_puzzle">Šachová hádanka</string>
+    <string name="leaderboard">Tabuľka</string>
+    <string name="easy">Lahké</string>
+    <string name="medium">Stredné</string>
+    <string name="hard">Ťažké</string>
+    <string name="your_training">Tvoj Tréning</string>
+    <string name="solved_puzzle_num">Vyriešené hádanky</string>
+    <string name="puzzle">Hádanka</string>
+    <string name="viz_none">NNONE</string>
+
+
+
+    <string name="web_client_id">647443299531-f243evgikju1fuudrd9d3m7o606ja981.apps.googleusercontent.com</string>
+
+
+</resources>

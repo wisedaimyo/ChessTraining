@@ -9,4 +9,4 @@ This Android application was created for a bachelor’s thesis. The purpose of t
 
 ---
 
-This app is ONLY in Slovak language.
+This app is available ONLY in Slovak language.
